@@ -1,9 +1,9 @@
 <?php
 
-use \Magento\Framework\Component\ComponentRegistrar;
+use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
-    ComponentRegistrar::MODULE,
-    'Yireo_JqueryUpgrade',
+    ComponentRegistrar::THEME,
+    'frontend/Yireo/jQueryUpgrade',
     __DIR__
 );

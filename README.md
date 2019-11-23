@@ -1,3 +1,2 @@
 # Upgrade jQuery 1 to 3 within Magento 2
-This is NOT a working example, but more partial steps to take to
-complete the upgrade.
+This is a working example, but there might be additional needed steps needed to cover all different aspects of this upgrade. Feel free to open an **Issue** to discuss.
