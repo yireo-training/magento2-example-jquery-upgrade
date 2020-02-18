@@ -1,2 +1,4 @@
 define(function() {
+    return function() {
+    };
 });
