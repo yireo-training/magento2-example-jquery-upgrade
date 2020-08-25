@@ -1,7 +1,6 @@
 var config = {
     paths: {
-        'jquery/patches/jquery': 'js/zero',
-
+        'jquery/patches/jquery': 'js/zero'
     },
     config: {
         mixins: {
